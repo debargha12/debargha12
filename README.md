@@ -22,7 +22,7 @@ learn new domains.
 - Created an **anomaly detection pipeline** for firewall data logs using Python **improving** performance by **10** %
 - Translated the findings into **accessible visuals** for effectively **communicating complex analysis** to non-experts
 
-**PROJECTS**
+## PROJECTS
 
 [**Emotion Detection of Reddit posts using NLP**](https://github.com/debargha12/NLPProject)
 
@@ -30,7 +30,7 @@ learn new domains.
 - Developed a predictive model using **LSTM** from **Tensorflow.Keras** predicting multi-label emotions with **56** % accuracy
 - Determined the best hyperparameters using **GridSearchCV increasing** the accuracy of emotion detection by **2** %
 
-**Sentiment Analysis of COVID-19 tweets using BigData Technologies**
+[**Sentiment Analysis of COVID-19 tweets using BigData Technologies**](https://github.com/debargha12/CovidBigData)
 
 - Built an end-to-end big data solution for **sentiment analysis** on live tweets using **Python, Kafka, Kibana, Spark**
 - Analyzed the combined score of **Vader algorithm** to gauge positivity, negativity and neutrality
@@ -40,32 +40,32 @@ Search Engine for Cricket using Information Retrieval Techniques**
 - Implemented **clustering** using **Python** and **Scikit-learn** library improving search results by **15** %
 - Deployed the search engine by creating **REST APIs** with **Flask** and collaborated with the design team for testing
 
-**Character Level Name Generation Model using ML Techniques**
+[**Character Level Name Generation Model using ML Techniques**](https://github.com/debargha12/NameGeneration)
 
 - Created our own **Recurrent Neural Network** library using **Python** to correctly generate names of people.
 - Incorporated gradient clipping and sampled prediction at each step **reducing** the training time by **20** %
 
-**Analysis of Car Evaluation Dataset using ML Techniques**
+[**Analysis of Car Evaluation Dataset using ML Techniques**](https://github.com/debargha12/AnalysisOfCarEvaluationDataset/blob/master/SciKitLab.ipynb)
 
 - Designed an **end-to-end ML pipeline** using **Python** and **Sklearn** library to predict **evaluation of cars**
 - Performed **exploratory data analysis** and **feature engineering** to prepare the dataset for modeling
 - Determined the best **supervised algorithm** by creating a data pipeline and using RandomSearchCV on alogrithms like
     **SVM, KNN, Decision Tree, Random Forest Classifier, AdaBoost Classier, Gradient Boosting Classifier**
 
-**AI Searching Techniques**
+[**AI Searching Techniques**](https://github.com/debargha12/AI)
 
 - Developed Uninformed Search Strategies like **Breadth-first search, Uniform-cost search, Depth-first search,**
     **Depth-limited search, Iterative deepening search** and Informed Search Strategies like **Greedy Best-first**
     **search, A* search and RBFS** using **Python** to find the shortest path from Seattle to Dallas**
 
-**EDUCATION**
+## EDUCATION
 
 **_Master of Science (M.S.)_** , _Computer Science Jan 2019 - Dec 2020_
 **The University of Texas at Dallas** GPA: 3.85
 **_Bachelor of Technology (B.Tech.)_** , Computer Science _Aug 2014 - Aug 2018_
 **West Bengal University of Technology** GPA: 3.54
 
-**SKILLS**
+## SKILLS
 
 **Programing Languages** : Python, R, Java
 **Big Data Ecosystem** : Hadoop, Spark, Kafka, Elastic Search, Kibana
