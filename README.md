@@ -50,7 +50,7 @@ Search Engine for Cricket using Information Retrieval Techniques**
 - Designed an **end-to-end ML pipeline** using **Python** and **Sklearn** library to predict **evaluation of cars**
 - Performed **exploratory data analysis** and **feature engineering** to prepare the dataset for modeling
 - Determined the best **supervised algorithm** by creating a data pipeline and using RandomSearchCV on alogrithms like
-    **SVM, KNN, Decision Tree, Random Forest Classifier, AdaBoost Classier, Gradient Boosting Classifier**
+    **SVM, KNN, Decision Tree, Random Forest Classifier, AdaBoost Classifier, Gradient Boosting Classifier**
 
 [**AI Searching Techniques**](https://github.com/debargha12/AI)
 
