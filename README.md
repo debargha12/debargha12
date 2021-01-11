@@ -15,19 +15,19 @@ learn new domains.
 - Implemented a **geolocation SIR** model proving that mitigation fared better than suppression for **80** % of the cases
 - **Collaborated** with the development team to provide **actionable insights** aimed at **increasing** user interaction
 
-**Data Analyst Intern** , **_Cyber Security Knowledge Sharing & Research Counci_** l _Aug 2017 - Oct 2017_
+**Data Analyst Intern** , **_Cyber Security Knowledge Sharing & Research Council_**  _Aug 2017 - Oct 2017_
 
 - Executed **network traffic analysis** using raw packet data with **Python reducing** congestion by **5** %
 - Designed a **data visualization** of DNS query logs using **R** for 100% of the incoming queries
 - Created an **anomaly detection pipeline** for rewall data logs using Python **improving** performance by **10** %
-- Translated the ndings into **accessible visuals** for effectively **communicating complex analysis** to non-experts
+- Translated the findings into **accessible visuals** for effectively **communicating complex analysis** to non-experts
 
 **PROJECTS**
 
 **Emotion Detection of Reddit posts using NLP**
 
 - Performed **data analysis** using **Python** on Reddit posts to reveal information beyond the formal modeling
-- Developed a predictive model using **LSTM** from **Tensorow.Keras** predicting multi-label emotions with **56** % accuracy
+- Developed a predictive model using **LSTM** from **Tensorflow.Keras** predicting multi-label emotions with **56** % accuracy
 - Determined the best hyperparameters using **GridSearchCV increasing** the accuracy of emotion detection by **2** %
 
 **Sentiment Analysis of COVID-19 tweets using BigData Technologies**
@@ -50,27 +50,27 @@ Search Engine for Cricket using Information Retrieval Techniques**
 - Designed an **end-to-end ML pipeline** using **Python** and **Sklearn** library to predict **evaluation of cars**
 - Performed **exploratory data analysis** and **feature engineering** to prepare the dataset for modeling
 - Determined the best **supervised algorithm** by creating a data pipeline and using RandomSearchCV on alogrithms like
-    **SVM, KNN, Decision Tree, Random Forest Classier, AdaBoost Classier, Gradient Boosting Classier**
+    **SVM, KNN, Decision Tree, Random Forest Classifier, AdaBoost Classier, Gradient Boosting Classifier**
 
 **AI Searching Techniques**
 
-- Developed Uninformed Search Strategies like **Breadth-rst search, Uniform-cost search, Depth-rst search,**
-    **Depth-limited search, Iterative deepening search** and Informed Search Strategies like **Greedy Best-rst**
-    **search, A* search and RBFS** using **Python** to nd the s **hortest path from Seattle to Dallas**
+- Developed Uninformed Search Strategies like **Breadth-first search, Uniform-cost search, Depth-first search,**
+    **Depth-limited search, Iterative deepening search** and Informed Search Strategies like **Greedy Best-first**
+    **search, A* search and RBFS** using **Python** to find the shortest path from Seattle to Dallas**
 
 **EDUCATION**
 
 **_Master of Science (M.S.)_** , _Computer Science Jan 2019 - Dec 2020_
-**The University of Texas at Dallas** GPA: 3.
+**The University of Texas at Dallas** GPA: 3.85
 **_Bachelor of Technology (B.Tech.)_** , Computer Science _Aug 2014 - Aug 2018_
-**West Bengal University of Technology** GPA: 3.
+**West Bengal University of Technology** GPA: 3.54
 
 **SKILLS**
 
 **Programing Languages** : Python, R, Java
 **Big Data Ecosystem** : Hadoop, Spark, Kafka, Elastic Search, Kibana
 **Database & Clou** d: SQL, NoSQL, MySQL, MongoDB, Firebase, AWS
-**Data Science Libraries** : NumPy, Pandas, Seaborn, Matplotlib, SciPy, scikit-learn, Tensorow, PyTorch, Keras, Light-
+**Data Science Libraries** : NumPy, Pandas, Seaborn, Matplotlib, SciPy, scikit-learn, Tensorflow, PyTorch, Keras, Light-
 GBM, Plotly, ggplot
 **Tools** : MS Word, Excel, PowerPoint, Jupyter, Tableau, R Markdown, PyCharm, Git, Docker, Kubernetes
 
