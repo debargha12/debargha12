@@ -19,12 +19,12 @@ learn new domains.
 
 - Executed **network traffic analysis** using raw packet data with **Python reducing** congestion by **5** %
 - Designed a **data visualization** of DNS query logs using **R** for 100% of the incoming queries
-- Created an **anomaly detection pipeline** for rewall data logs using Python **improving** performance by **10** %
+- Created an **anomaly detection pipeline** for firewall data logs using Python **improving** performance by **10** %
 - Translated the findings into **accessible visuals** for effectively **communicating complex analysis** to non-experts
 
 **PROJECTS**
 
-**Emotion Detection of Reddit posts using NLP**
+[**Emotion Detection of Reddit posts using NLP**](https://github.com/debargha12/NLPProject)
 
 - Performed **data analysis** using **Python** on Reddit posts to reveal information beyond the formal modeling
 - Developed a predictive model using **LSTM** from **Tensorflow.Keras** predicting multi-label emotions with **56** % accuracy
