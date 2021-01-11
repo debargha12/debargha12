@@ -3,7 +3,7 @@
 
 **SUMMARY**
 
-Data Scientist with 6 months experience in Exploratory Data Analysis, Feature Engineering, Machine Learning Model
+I am a recent grad with 6 months experience in Exploratory Data Analysis, Feature Engineering, Machine Learning Model
 Development, A/B Testing and Model Deployment in a production environment. Self-driven with the ability to quickly
 learn new domains.
 
